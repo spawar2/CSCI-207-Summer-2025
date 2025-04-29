@@ -1,6 +1,6 @@
 # CSCI-207-Summer-2025
 
-CSCI207 Learning Objectives [# Object-Oriented-Programming-and-Lab, 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-object-oriented-programming-1)
+CSCI 207 Learning Objectives [# Object-Oriented-Programming-and-Lab, 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-object-oriented-programming-1)
 [java.lang]. Date created/updated: Aptil, 20, 2025.
 [Object Oriented Programming:](https://youtu.be/GPLjXvVgssc)
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
