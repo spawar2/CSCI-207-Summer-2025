@@ -7,7 +7,9 @@ CSCI 207 Learning Objectives [# Object-Oriented-Programming-and-Lab, 4 Credits](
 
 Object Oriented Programming (topics including inheritance, msg passing, polymorphism, recursion, abstraction, encapsulation, software design techniques, etc.).
 ![download](https://github.com/user-attachments/assets/9507cf65-9976-4cf9-a2e8-fdf949f871ca)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Git Version Control:](https://youtu.be/IM56cFOyCZM)
 
 [Github:](https://github.com/spawar2/Object-Oriented-Programming-Laboratory)
