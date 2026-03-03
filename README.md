@@ -11,7 +11,7 @@ https://www.claflin.edu/docs/default-source/academic-affairs-student-services/20
 
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Git Version Control:](https://youtu.be/IM56cFOyCZM)
-
+Student Evaluations (2021-2026): https://www.claflin-computation.com/_files/ugd/81dd80_ae28e89ed22e41c39513d1764b5c9628.pdf
 [Github:](https://github.com/spawar2/Object-Oriented-Programming-Laboratory)
 **Undergraduate Class & Lab https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
